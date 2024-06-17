@@ -1,0 +1,997 @@
+{
+    "playlist": {
+      "status": true,
+      "errorId": "Success",
+      "type": "section",
+      "id": "0JQ5DAuChZYPe9iDhh2mJz",
+      "title": "Spotify Playlists",
+      "shareUrl": "https://open.spotify.com/section/0JQ5DAuChZYPe9iDhh2mJz",
+      "contents": {
+        "totalCount": 10,
+        "items": [
+          {
+            "type": "playlist",
+            "id": "37i9dQZF1DXcBWIGoYBM5M",
+            "name": "Today’s Top Hits",
+            "shareUrl": "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M",
+            "description": "Sabrina Carpenter is on top of the Hottest 50!",
+            "owner": {
+              "type": "user",
+              "name": "Spotify"
+            },
+            "images": [
+              [
+                {
+                  "url": "https://i.scdn.co/image/ab67706f00000002100e87512faecef9861e5102",
+                  "width": null,
+                  "height": null
+                }
+              ]
+            ],
+            "music": [
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/pushpa.mp3",
+                "img": "https://pagalnew.com/coverimages/pushpa-pushpa-pushpa-2-the-rule-500-500.jpg",
+                "duration": "4:16",
+                "name": "Pushpa Pushpa - Pushpa 2 The Rule"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/gulabi-sadi.mp3",
+                "img": "https://www.pagalworld.com.sb/siteuploads/thumb/sft142/70998_4.jpg",
+                "duration": "3:45",
+                "name": "Gulabi Saadi Ani Lali Lal"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/jamal-kudu.mp3",
+                "img": "https://pagalnew.com/coverimages/abrars-entry-jamal-kudu-animal-500-500.jpg",
+                "duration": "2:14",
+                "name": "Abrars Entry - Jamal Kudu.mp3"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/summernight.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2024/04/28/08-44-21-807_200x200.png",
+                "duration": "2:24",
+                "name": "Summer Night"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/forest-guitar.mp3",
+                "img": "https://cdn.pixabay.com/audio/2023/08/06/20-12-59-55_200x200.png",
+                "duration": "0:30",
+                "name": "Forest Guitar"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spirit-blossom.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2023/08/04/23-57-28-928_200x200.jpg",
+                "duration": "1:48",
+                "name": "Spirit Blossom"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/alex.mp3",
+                "img": "https://www.free-stock-music.com/thumbnails/alex-productions-hot-pepper.jpg",
+                "duration": "1:54",
+                "name": "Hot Pepper"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d3",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccjpwj85GBgqzOD6FORkHGdE_galQoFNDiw&usqp=CAU",
+                "duration": "0:30",
+                "name": "Brighten Your Day"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              }
+            ]
+          },
+          {
+            "type": "playlist",
+            "id": "37i9dQZF1DWWQRwui0ExPn",
+            "name": "lofi beats",
+            "shareUrl": "https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn",
+            "description": "chill beats, lofi vibes, new tracks every week... ",
+            "owner": {
+              "type": "user",
+              "name": "Spotify"
+            },
+            "images": [
+              [
+                {
+                  "url": "https://i.scdn.co/image/ab67706f0000000255be59b7be2929112e7ac927",
+                  "width": null,
+                  "height": null
+                }
+              ]
+            ],
+            "music": [
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/rangisari.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2024/04/28/08-44-21-807_200x200.png",
+                "duration": "2:24",
+                "name": "Rangisari - Jugjugg Jeeyo"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/pehle-bhi.mp3",
+                "img": "https://www.pagalworld.com.sb/siteuploads/thumb/sft143/71229_4.jpg",
+                "duration": "2:50",
+                "name": "Pehle Bhi Main - Animal"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spirit-blossom.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2023/08/04/23-57-28-928_200x200.jpg",
+                "duration": "1:48",
+                "name": "Spirit Blossom"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/alex.mp3",
+                "img": "https://www.free-stock-music.com/thumbnails/alex-productions-hot-pepper.jpg",
+                "duration": "1:54",
+                "name": "Hot Pepper"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d3",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccjpwj85GBgqzOD6FORkHGdE_galQoFNDiw&usqp=CAU",
+                "duration": "0:30",
+                "name": "Brighten Your Day"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/summernight.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2024/04/28/08-44-21-807_200x200.png",
+                "duration": "2:24",
+                "name": "Summer Night"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/forest-guitar.mp3",
+                "img": "https://cdn.pixabay.com/audio/2023/08/06/20-12-59-55_200x200.png",
+                "duration": "0:30",
+                "name": "Forest Guitar"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spirit-blossom.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2023/08/04/23-57-28-928_200x200.jpg",
+                "duration": "1:48",
+                "name": "Spirit Blossom"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/alex.mp3",
+                "img": "https://www.free-stock-music.com/thumbnails/alex-productions-hot-pepper.jpg",
+                "duration": "1:54",
+                "name": "Hot Pepper"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d3",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccjpwj85GBgqzOD6FORkHGdE_galQoFNDiw&usqp=CAU",
+                "duration": "0:30",
+                "name": "Brighten Your Day"
+              }
+            ]
+          },
+          {
+            "type": "playlist",
+            "id": "37i9dQZF1DWTvNyxOwkztu",
+            "name": "Chillout Lounge",
+            "shareUrl": "https://open.spotify.com/playlist/37i9dQZF1DWTvNyxOwkztu",
+            "description": "Just lean back and enjoy relaxed beats.",
+            "owner": {
+              "type": "user",
+              "name": "Spotify"
+            },
+            "images": [
+              [
+                {
+                  "url": "https://i.scdn.co/image/ab67706f00000002dec17246891b5b4eb97bdb0d",
+                  "width": null,
+                  "height": null
+                }
+              ]
+            ],
+            "music": [
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/cinematic-chillhop-main.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "3:03",
+                "name": "Cinematic Chillhop"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/summernight.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2024/04/28/08-44-21-807_200x200.png",
+                "duration": "2:24",
+                "name": "Summer Night"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/forest-guitar.mp3",
+                "img": "https://cdn.pixabay.com/audio/2023/08/06/20-12-59-55_200x200.png",
+                "duration": "0:30",
+                "name": "Forest Guitar"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spirit-blossom.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2023/08/04/23-57-28-928_200x200.jpg",
+                "duration": "1:48",
+                "name": "Spirit Blossom"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/alex.mp3",
+                "img": "https://www.free-stock-music.com/thumbnails/alex-productions-hot-pepper.jpg",
+                "duration": "1:54",
+                "name": "Hot Pepper"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d3",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccjpwj85GBgqzOD6FORkHGdE_galQoFNDiw&usqp=CAU",
+                "duration": "0:30",
+                "name": "Brighten Your Day"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              }
+            ]
+          },
+          {
+            "type": "playlist",
+            "id": "37i9dQZF1DX2M1RktxUUHG",
+            "name": "All Out 2020s",
+            "shareUrl": "https://open.spotify.com/playlist/37i9dQZF1DX2M1RktxUUHG",
+            "description": "The biggest songs of the 2020s. Cover: Doja Cat",
+            "owner": {
+              "type": "user",
+              "name": "Spotify"
+            },
+            "images": [
+              [
+                {
+                  "url": "https://i.scdn.co/image/ab67706f00000002b43eac9f01f8b865662b5c29",
+                  "width": null,
+                  "height": null
+                }
+              ]
+            ],
+            "music": [
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/o-sajni-re.mp3",
+                "img": "https://www.pagalworld.com.sb/siteuploads/thumb/sft143/71229_4.jpg",
+                "duration": "2:50",
+                "name": "O Sajni Re"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/cinematic-chillhop-main.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "3:03",
+                "name": "Cinematic Chillhop"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/summernight.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2024/04/28/08-44-21-807_200x200.png",
+                "duration": "2:24",
+                "name": "Summer Night"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/forest-guitar.mp3",
+                "img": "https://cdn.pixabay.com/audio/2023/08/06/20-12-59-55_200x200.png",
+                "duration": "0:30",
+                "name": "Forest Guitar"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spirit-blossom.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2023/08/04/23-57-28-928_200x200.jpg",
+                "duration": "1:48",
+                "name": "Spirit Blossom"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/alex.mp3",
+                "img": "https://www.free-stock-music.com/thumbnails/alex-productions-hot-pepper.jpg",
+                "duration": "1:54",
+                "name": "Hot Pepper"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d3",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccjpwj85GBgqzOD6FORkHGdE_galQoFNDiw&usqp=CAU",
+                "duration": "0:30",
+                "name": "Brighten Your Day"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              }
+            ]
+          },
+          {
+            "type": "playlist",
+            "id": "37i9dQZF1DWV7EzJMK2FUI",
+            "name": "Jazz in the Background",
+            "shareUrl": "https://open.spotify.com/playlist/37i9dQZF1DWV7EzJMK2FUI",
+            "description": "Soft instrumental Jazz for all your activities.",
+            "owner": {
+              "type": "user",
+              "name": "Spotify"
+            },
+            "images": [
+              [
+                {
+                  "url": "https://i.scdn.co/image/ab67706f00000002472120b92edea982b5feb264",
+                  "width": null,
+                  "height": null
+                }
+              ]
+            ],
+            "music": [
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/cinematic-chillhop-main.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "3:03",
+                "name": "Cinematic Chillhop"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/summernight.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2024/04/28/08-44-21-807_200x200.png",
+                "duration": "2:24",
+                "name": "Summer Night"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/forest-guitar.mp3",
+                "img": "https://cdn.pixabay.com/audio/2023/08/06/20-12-59-55_200x200.png",
+                "duration": "0:30",
+                "name": "Forest Guitar"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spirit-blossom.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2023/08/04/23-57-28-928_200x200.jpg",
+                "duration": "1:48",
+                "name": "Spirit Blossom"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/alex.mp3",
+                "img": "https://www.free-stock-music.com/thumbnails/alex-productions-hot-pepper.jpg",
+                "duration": "1:54",
+                "name": "Hot Pepper"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d3",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccjpwj85GBgqzOD6FORkHGdE_galQoFNDiw&usqp=CAU",
+                "duration": "0:30",
+                "name": "Brighten Your Day"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              }
+            ]
+          },
+          {
+            "type": "playlist",
+            "id": "37i9dQZF1DX4WYpdgoIcn6",
+            "name": "Chill Hits",
+            "shareUrl": "https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6",
+            "description": "Kick back to the best new and recent chill hits.",
+            "owner": {
+              "type": "user",
+              "name": "Spotify"
+            },
+            "images": [
+              [
+                {
+                  "url": "https://i.scdn.co/image/ab67706f000000020408713c731caaf1f800615a",
+                  "width": null,
+                  "height": null
+                }
+              ]
+            ],
+            "music": [
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/cinematic-chillhop-main.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "3:03",
+                "name": "Cinematic Chillhop"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/summernight.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2024/04/28/08-44-21-807_200x200.png",
+                "duration": "2:24",
+                "name": "Summer Night"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/forest-guitar.mp3",
+                "img": "https://cdn.pixabay.com/audio/2023/08/06/20-12-59-55_200x200.png",
+                "duration": "0:30",
+                "name": "Forest Guitar"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spirit-blossom.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2023/08/04/23-57-28-928_200x200.jpg",
+                "duration": "1:48",
+                "name": "Spirit Blossom"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/alex.mp3",
+                "img": "https://www.free-stock-music.com/thumbnails/alex-productions-hot-pepper.jpg",
+                "duration": "1:54",
+                "name": "Hot Pepper"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d3",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccjpwj85GBgqzOD6FORkHGdE_galQoFNDiw&usqp=CAU",
+                "duration": "0:30",
+                "name": "Brighten Your Day"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              }
+            ]
+          },
+          {
+            "type": "playlist",
+            "id": "37i9dQZF1DX4sWSpwq3LiO",
+            "name": "Peaceful Piano",
+            "shareUrl": "https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO",
+            "description": "Peaceful piano to help you slow down, breathe, and relax. ",
+            "owner": {
+              "type": "user",
+              "name": "Spotify"
+            },
+            "images": [
+              [
+                {
+                  "url": "https://i.scdn.co/image/ab67706f0000000283da657fca565320e9311863",
+                  "width": null,
+                  "height": null
+                }
+              ]
+            ],
+            "music": [
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/cinematic-chillhop-main.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "3:03",
+                "name": "Cinematic Chillhop"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/summernight.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2024/04/28/08-44-21-807_200x200.png",
+                "duration": "2:24",
+                "name": "Summer Night"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/forest-guitar.mp3",
+                "img": "https://cdn.pixabay.com/audio/2023/08/06/20-12-59-55_200x200.png",
+                "duration": "0:30",
+                "name": "Forest Guitar"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spirit-blossom.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2023/08/04/23-57-28-928_200x200.jpg",
+                "duration": "1:48",
+                "name": "Spirit Blossom"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/alex.mp3",
+                "img": "https://www.free-stock-music.com/thumbnails/alex-productions-hot-pepper.jpg",
+                "duration": "1:54",
+                "name": "Hot Pepper"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d3",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccjpwj85GBgqzOD6FORkHGdE_galQoFNDiw&usqp=CAU",
+                "duration": "0:30",
+                "name": "Brighten Your Day"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              }
+            ]
+          },
+          {
+            "type": "playlist",
+            "id": "37i9dQZF1DWXRqgorJj26U",
+            "name": "Rock Classics",
+            "shareUrl": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U",
+            "description": "Rock legends & epic songs that continue to inspire generations. Cover: The Rolling Stones",
+            "owner": {
+              "type": "user",
+              "name": "Spotify"
+            },
+            "images": [
+              [
+                {
+                  "url": "https://i.scdn.co/image/ab67706f000000024a83d42ca84e63abc9413b5d",
+                  "width": null,
+                  "height": null
+                }
+              ]
+            ],
+            "music": [
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/cinematic-chillhop-main.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "3:03",
+                "name": "Cinematic Chillhop"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/summernight.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2024/04/28/08-44-21-807_200x200.png",
+                "duration": "2:24",
+                "name": "Summer Night"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/forest-guitar.mp3",
+                "img": "https://cdn.pixabay.com/audio/2023/08/06/20-12-59-55_200x200.png",
+                "duration": "0:30",
+                "name": "Forest Guitar"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spirit-blossom.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2023/08/04/23-57-28-928_200x200.jpg",
+                "duration": "1:48",
+                "name": "Spirit Blossom"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/alex.mp3",
+                "img": "https://www.free-stock-music.com/thumbnails/alex-productions-hot-pepper.jpg",
+                "duration": "1:54",
+                "name": "Hot Pepper"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d3",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccjpwj85GBgqzOD6FORkHGdE_galQoFNDiw&usqp=CAU",
+                "duration": "0:30",
+                "name": "Brighten Your Day"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              }
+            ]
+          },
+          {
+            "type": "playlist",
+            "id": "37i9dQZF1DWXe9gFZP0gtP",
+            "name": "Stress Relief",
+            "shareUrl": "https://open.spotify.com/playlist/37i9dQZF1DWXe9gFZP0gtP",
+            "description": "Calm your mind from anxiety with gentle piano and ambient music.",
+            "owner": {
+              "type": "user",
+              "name": "Spotify"
+            },
+            "images": [
+              [
+                {
+                  "url": "https://i.scdn.co/image/ab67706f000000025db1394baf8862336f19ac83",
+                  "width": null,
+                  "height": null
+                }
+              ]
+            ],
+            "music": [
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/cinematic-chillhop-main.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "3:03",
+                "name": "Cinematic Chillhop"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/summernight.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2024/04/28/08-44-21-807_200x200.png",
+                "duration": "2:24",
+                "name": "Summer Night"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/forest-guitar.mp3",
+                "img": "https://cdn.pixabay.com/audio/2023/08/06/20-12-59-55_200x200.png",
+                "duration": "0:30",
+                "name": "Forest Guitar"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spirit-blossom.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2023/08/04/23-57-28-928_200x200.jpg",
+                "duration": "1:48",
+                "name": "Spirit Blossom"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/alex.mp3",
+                "img": "https://www.free-stock-music.com/thumbnails/alex-productions-hot-pepper.jpg",
+                "duration": "1:54",
+                "name": "Hot Pepper"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d3",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccjpwj85GBgqzOD6FORkHGdE_galQoFNDiw&usqp=CAU",
+                "duration": "0:30",
+                "name": "Brighten Your Day"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              }
+            ]
+          },
+          {
+            "type": "playlist",
+            "id": "37i9dQZF1DX4UtSsGT1Sbe",
+            "name": "All Out 80s",
+            "shareUrl": "https://open.spotify.com/playlist/37i9dQZF1DX4UtSsGT1Sbe",
+            "description": "The biggest songs of the 1980s. Cover: Bruce Springsteen",
+            "owner": {
+              "type": "user",
+              "name": "Spotify"
+            },
+            "images": [
+              [
+                {
+                  "url": "https://i.scdn.co/image/ab67706f00000002d6710ea346fec48e89d77dba",
+                  "width": null,
+                  "height": null
+                }
+              ]
+            ],
+            "music": [
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/cinematic-chillhop-main.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "3:03",
+                "name": "Cinematic Chillhop"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/summernight.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2024/04/28/08-44-21-807_200x200.png",
+                "duration": "2:24",
+                "name": "Summer Night"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/forest-guitar.mp3",
+                "img": "https://cdn.pixabay.com/audio/2023/08/06/20-12-59-55_200x200.png",
+                "duration": "0:30",
+                "name": "Forest Guitar"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spirit-blossom.mp3 ",
+                "img": "https://cdn.pixabay.com/audio/2023/08/04/23-57-28-928_200x200.jpg",
+                "duration": "1:48",
+                "name": "Spirit Blossom"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/alex.mp3",
+                "img": "https://www.free-stock-music.com/thumbnails/alex-productions-hot-pepper.jpg",
+                "duration": "1:54",
+                "name": "Hot Pepper"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d3",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccjpwj85GBgqzOD6FORkHGdE_galQoFNDiw&usqp=CAU",
+                "duration": "0:30",
+                "name": "Brighten Your Day"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/spring-of-mind.mp3",
+                "img": "https://cdn.pixabay.com/audio/2024/03/04/19-01-06-288_200x200.jpeg",
+                "duration": "2:36",
+                "name": "Spring of Mind"
+              },
+              {
+                "url": "/MelodifyPlaylist/playlistSongs/make-me-chill.mp3",
+                "img": "https://cdn.pixabay.com/audio/2022/08/04/15-00-38-464_200x200.jpg",
+                "duration": "3:56",
+                "name": "Make me chill"
+              },
+              {
+                "url": "https://p.scdn.co/mp3-preview/89139a5929d6dd2f68dae101082a678bdee0ba47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+                "img": "https://cdn.pixabay.com/audio/2023/11/16/02-22-40-22_200x200.png",
+                "duration": "0:30",
+                "name": "The Weekend"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "user": [
+      {
+        "id": "1",
+        "email": "omshre06@gmail.com",
+        "password": "Arnab1234",
+        "name": "om shrestha",
+        "DOB": "2003-01-06",
+        "gender": "male"
+      },
+      {
+        "id": "2",
+        "email": "rakeah33@gmail.com",
+        "password": "rakesh33@",
+        "name": "Rakesh Roshan",
+        "DOB": "2000-05-07",
+        "gender": "male"
+      },
+      {
+        "id": "3",
+        "email": "punam10@gmail.com",
+        "password": "punam234@",
+        "name": "punam tripathi",
+        "DOB": "2003-01-10",
+        "gender": "female"
+      },
+      {
+        "id": "4363",
+        "email": "sagarrathod050@gmail.com",
+        "password": "Sagar@7568",
+        "name": "Sagar Annarao Rathod",
+        "year": "1996",
+        "month": "June",
+        "date": "02",
+        "gender": "Man"
+      }
+    ]
+  }
